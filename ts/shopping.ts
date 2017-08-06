@@ -70,7 +70,6 @@ function deleteProduct(id: number){
 }
 
 $(document).ready(function(){
-	console.log("test thu thoi");
 	//Hiển thị danh sách sản phẩm
 	showListProduct();
 	//giỏ hàng rỗng
